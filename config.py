@@ -9,17 +9,17 @@ API_ID = 21968859
 
 API_HASH = "21a59d21687f01d448530ee88a26b1eb"
 
-BOT_TOKEN = "7517183434:AAFozDTblwsn24CJfXUkUh9DwnhyIi06f3U"
+BOT_TOKEN = "8055158116:AAFfw3IMurfCYoAIlNE2xiBG_mjX20Mhdvo"
 
-BOT_ID = 7517183434
+BOT_ID = 8055158116
 
-BOT_USERNAME = "@Olyria_musicbot"
+BOT_USERNAME = "@MiaKhailfabot"
 
 OWNER_USERNAME = "@eren_aethonix"
 
-BOT_NAME = "𝐎𝐥𝐲𝐫𝐢𝐚 ꭙ 𝐌ᴜsɪᴄ"
+BOT_NAME = "𝐌ɪᴀ ꭙ 𝐌ᴜsɪᴄ 💗"
 
-ASSUSERNAME = "@Olyria_assist"
+ASSUSERNAME = "@miakhassistant"
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://thebiggestcomebackever:EREN1234@cluster0.7q7ri.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
@@ -66,7 +66,7 @@ SONG_DOWNLOAD_DURATION_LIMIT = 9999999
 TG_AUDIO_FILESIZE_LIMIT = 2147483648
 TG_VIDEO_FILESIZE_LIMIT = 2147483648
 
-STRING1 = getenv("STRING1", "BQFPN9sAYn0-MeFe5BvLclIQx8ksN7h6oeb7cWkw_XXkJjuj0zG_qA4YaoAp7B6pgPzGKCyWgfbJ3tegkQzlrjj6aphv39-KpAPPKuUWF_LTvYOOOlTGTwT8eqqUPrK-_79t4R3zIYnO2Bhvg3HT4AveDiyFZnPKtzKzC-8Ebby6AXQx51h4cJogGN-uPNqsohCfju5SsYnXrKtR6VHT9sX4NRMWAYDL4x0pjaADns9X90kSHaeyLtXHtq_3GbGecZI8CYAyVMezGWO-cp0EguNIi8VtW-EzK5ygN1ALTeWKrR2txt21SCo03Kf5p9Fn3flL1gOHD0X11gJw-FyWWtUjncJpiQAAAAHYyfknAA")
+STRING1 = getenv("STRING1", "BQGPbhsAtlh1AM-S7AsFQsntY-4iBALGq33we0vy7X2W_efnGf4-bsZbb4b4FsFC7YfUdHDkVr8YO5PJiLAhBy2oTBeFaA14wJOCYXl-p3Ai5t1PtAEhvrwKfg41p4LsEZ6mY3KHkkSD2Xa3U_rZdrIoFMtaEhubbz7_oypU4-nAWUeW2C4mcPgIN_VtVN-vmjbjUYPbYDmI78Fayqbymx3w14SKnsYnaiafZJPwf0FkcikbQvQelIBOHyo3VZ7i_n3mt2IEBqdRoSbMy9OywOA275UbX-H14cGkExb1Y0NMtgJXafHKOfdEFktTw6r7SAGk9KIFtzdCMrtsyLCP4EzDaGNFtwAAAAGBx94sAA")
 STRING2 = getenv("STRING2", None)
 STRING3 = getenv("STRING3", None)
 STRING4 = getenv("STRING4", None)
